@@ -23,3 +23,5 @@ This software is based on [Ray Dino's Robby - genetic algorithm](https://github.
 > LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 > SOFTWARE.
+
+Original work is licensed under the [MIT license](https://github.com/TineKolenik/hoffman_reproduction/blob/master/LICENSE).
