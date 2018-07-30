@@ -1,5 +1,7 @@
 # Master thesis model: Hoffman et al. (2015) GA model reproduction in Python
 
+[Hoffman, D.D., Singh, M. & Prakash, C. Psychon Bull Rev (2015) 22: 1480](https://doi.org/10.3758/s13423-015-0890-8)
+
 ### Regarding licensing
 
 This software is based on [Ray Dino's Robby - genetic algorithm](https://github.com/ray-dino/robby-genetic-algorithm), licensed under The MIT License (MIT): 
